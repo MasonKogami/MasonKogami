@@ -34,7 +34,7 @@
 
 --- 
 
-:hammer_and_wrench: My current stack includes:
+:hammer_and_wrench: My languages and tools:
 <div align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='30' width='51'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='30' width='55'/>
