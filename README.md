@@ -31,7 +31,7 @@
 </div>
 
 - 🔭 I’m currently working on: Brainiac, create flashcards, study them, and learn more!
-- ⚙️ I most often use: .ts, .js, .py, .html, .css
+- ⚙️ I most often use: .js, .py, .html, .css
 - 🤔 Some interesting things about me: I am Japanese, Irish, Scottish, Lebanese, and Cuban. I sang in my highschool choir for 4 years and I still do not know how to sing. I love smoothies!
 
 --- 
