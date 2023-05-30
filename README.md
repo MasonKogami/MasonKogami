@@ -31,13 +31,14 @@
 </div>
 
 - 🔭 I’m currently working on: <a href="https://the-eventure-app.onrender.com/" target="_blank">Eventure</a>, bringing the world together through live experiences!
-- ⚙️ I most often use: .js, .py, .html, .css
+- ⚙️ I most often use: .ts, .js, .py, .html, .css
 - 🤔 Some interesting things about me: I am Japanese, Irish, Scottish, Lebanese, and Cuban. I sang in my highschool choir for 4 years and I still do not know how to sing. I love smoothies!
 
 --- 
 
 :hammer_and_wrench: My languages and tools:
 <div align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='30' width='51' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='30' width='51'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='30' width='51'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='30' width='51'/>
@@ -52,7 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height='30' width='51'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height='30' width='51'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='30' width='51'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height='30' width='51'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height='30' width='51'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='30' width='51'/>
 </div>
