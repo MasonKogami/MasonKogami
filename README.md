@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on: <a href="https://the-eventure-app.onrender.com/" target="_blank">Eventure</a>, bringing the world together through live experiences!
 - ⚙️ I most often use: .ts, .js, .py, .html, .css
-- 🤔 Some interesting things about me: I am Japanese, Irish, Scottish, Lebanese, and Cuban.
+- 🤔 An interesting fact about me: I am Japanese, Irish, Scottish, Lebanese, and Cuban.
 
 --- 
 
