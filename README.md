@@ -27,7 +27,7 @@
 ---
 
 <div>
-  <p>My name is Mason Kogami. I am a full-stack software engineer with a passion for learning.</p> 
+  <p>My name is Mason Kogami. I am a software engineer with a passion for learning.</p> 
 </div>
 
 - 🔭 I’m currently working on: <a href="https://the-eventure-app.onrender.com/" target="_blank">Eventure</a>, bringing the world together through live experiences!
